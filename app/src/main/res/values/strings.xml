@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Credijusto</string>
+
+    <string name="title_placeholder">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="body_placeholder">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</string>
+    <string name="name_placeholder">id labore ex et quam laborum</string>
+    <string name="email_placeholder">Eliseo@gardner.biz</string>
+    <string name="comment_placeholder">laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium</string>
+
+
+</resources>
